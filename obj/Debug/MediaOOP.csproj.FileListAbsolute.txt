@@ -1,0 +1,7 @@
+C:\Users\RafaelFerreira\source\repos\MediaOOP\MediaOOP\bin\Debug\MediaOOP.exe.config
+C:\Users\RafaelFerreira\source\repos\MediaOOP\MediaOOP\bin\Debug\MediaOOP.exe
+C:\Users\RafaelFerreira\source\repos\MediaOOP\MediaOOP\bin\Debug\MediaOOP.pdb
+C:\Users\RafaelFerreira\source\repos\MediaOOP\MediaOOP\obj\Debug\MediaOOP.csproj.AssemblyReference.cache
+C:\Users\RafaelFerreira\source\repos\MediaOOP\MediaOOP\obj\Debug\MediaOOP.csproj.CoreCompileInputs.cache
+C:\Users\RafaelFerreira\source\repos\MediaOOP\MediaOOP\obj\Debug\MediaOOP.exe
+C:\Users\RafaelFerreira\source\repos\MediaOOP\MediaOOP\obj\Debug\MediaOOP.pdb
